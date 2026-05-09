@@ -20,8 +20,8 @@ A CLI tool that reconciles internal system transactions against bank statements,
 ## Installation
 
 ```bash
-git clone <repo-url>
-cd reconciliation-service
+git clone https://github.com/ridloal/reconciliation_service_test.git
+cd reconciliation_service_test
 go mod download
 ```
 
